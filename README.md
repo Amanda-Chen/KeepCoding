@@ -1,1 +1,1 @@
-# Collaborative-Online-Judge-System
+# KeepCoding
