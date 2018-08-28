@@ -7,7 +7,6 @@ Install NodeJs:
 sudo apt-get update
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
-
 Install Nodemon
 npm install -g nodemon
 Install git
@@ -22,7 +21,6 @@ Install Redis
     sudo make install
     cd utils
     sudo ./install_server.sh
-    
 Install python 2.7
 This is installed already in Ubuntu
 
@@ -37,7 +35,6 @@ Setup docker permission:
    sudo usermod -aG docker $(whoami)
    # need to logout and login again after set permission
    To start docker when the system boots: sudo systemctl enable docker
-   
 Install Nginx
 For ubuntu 16.04) Add following two lines into /etc/apt/sources.list
    deb http://nginx.org/packages/ubuntu/ xenial nginx 
