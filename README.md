@@ -1,15 +1,19 @@
 # KeepCoding
 
-Demo
+Tech Stack
 
-Before sign-in
+Frontend: Angular2 + Bootstrap + Auth0 + ACE
+Backend: Socket.io + Express + MongoDB + Redis + Python + Flask + AWS + Nginx + PM2
 
-image1
+
+Main Page
+
+
 
 After authentication
 
-image2
 
-Code excutor
 
-image3
+After Code excution
+
+
