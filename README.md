@@ -15,22 +15,22 @@ Backend: Socket.io + Express + MongoDB + Redis + Python + Flask + AWS + Nginx + 
 
 Editor: 
     
-    Creating a coding document
+Creating a coding document
 	
-	Editing a document
+Editing a document
 	  
-	Sharing a document
+Sharing a document
     
-    Document revisions and reverting
+Document revisions and reverting
     
 Coding Problems: 
 	  
-	  User: Searching problems
+User: Searching problems
 	  
-	  Administator: Adding, deleting, changing problems
+Administator: Adding, deleting, changing problems
     
 Executor:
   
-  	Executing code
+Executing code
 
 
